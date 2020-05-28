@@ -1,0 +1,65 @@
+
+
+rect.board {
+    fill: rgb(7, 0, 68);
+}
+
+rect.snowbg {
+    fill: rgb(209, 237, 247);
+    stroke: lightskyblue;
+    stroke-width: 2%;
+}
+
+circle.body {
+    fill: rgb(209, 237, 247);
+    stroke: rgb(161, 202, 228);
+    stroke-width: 2%;
+}
+
+circle.eyes {
+    fill: rgb(36, 29, 28);
+}
+
+circle.eyeswhite {
+    fill: rgb(105, 100, 100);
+}
+
+circle.buttonone {
+    fill: rgb(21, 150, 255);
+}
+
+circle.buttontwo {
+    fill: rgb(240, 213, 64);
+}
+
+circle.buttonthree {
+    fill: rgb(241, 105, 184);
+}
+
+polygon.nose {
+    fill: rgb(216, 108, 45);
+}
+
+polygon.star {
+    fill: rgb(0, 204, 255);
+}
+
+circle.bowtie {
+    fill: rgb(0, 0, 0);
+}
+
+polygon.bowtie {
+    fill: rgb(0, 0, 0);
+}
+
+rect.shine {
+    fill: rgb(31, 47, 117);
+}
+
+rect.shinetwo {
+    fill: rgb(20, 34, 95);
+}
+
+polygon.arm {
+    fill: rgb(63, 48, 48);
+}
